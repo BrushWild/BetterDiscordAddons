@@ -18,6 +18,7 @@
 @import url(https://raw.githubusercontent.com/BrushWild/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.css);
 
 :root {
+	--messagetransparency:			0.05;
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.05;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.0;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
