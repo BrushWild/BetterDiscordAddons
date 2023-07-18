@@ -39,7 +39,7 @@
 	--popoutsize:					var(--backgroundsize);
 	--popoutblur:					var(--backgroundblur);
 	
-	--backdrop:						rgba(0,0,0,0.85);
+	--backdrop:						rgba(0,0,0,0.15);
 	--backdropposition:				center;
 	--backdropsize:					cover;
 	--backdropblur:					unset;
@@ -78,23 +78,23 @@
 	--interactive-active: rgb(var(--textbrightest));
 	--interactive-muted: rgb(var(--textdarkest));
 	--logo-primary: rgb(var(--textbrightest));
-	--modal-background: rgba(var(--transparencycolor), .2); /* default .2 */
-	--modal-footer-background: rgba(var(--transparencycolor), .2); /* default .2 */
+	--modal-background: rgba(var(--transparencycolor), .1); /* default .2 */
+	--modal-footer-background: rgba(var(--transparencycolor), .1); /* default .2 */
 	--background-accent: rgba(var(--transparencycolor), .1); /* default .1 */
-	--background-primary: rgba(var(--transparencycolor), .2); /* default .2 */
-	--background-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
-	--background-secondary-alt: rgba(var(--transparencycolor), .15); /* default .35 */
-	--background-tertiary: rgba(var(--transparencycolor), .2); /* default .4 */
+	--background-primary: rgba(var(--transparencycolor), .1); /* default .2 */
+	--background-secondary: rgba(var(--transparencycolor), .1); /* default .3 */
+	--background-secondary-alt: rgba(var(--transparencycolor), .1); /* default .35 */
+	--background-tertiary: rgba(var(--transparencycolor), .1); /* default .4 */
 	--background-floating: rgba(var(--transparencycolor), .1); /* default .5 */
-	--background-mobile-primary: rgba(var(--transparencycolor), .2); /* default .2 */
-	--background-mobile-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
+	--background-mobile-primary: rgba(var(--transparencycolor), .1); /* default .2 */
+	--background-mobile-secondary: rgba(var(--transparencycolor), .1); /* default .3 */
 	--background-modifier-accent: rgba(var(--textbrightest),.1); /* default .1 */
 	--background-message-automod: rgba(var(--dangercolor),.05); /* default .05 */
 	--background-message-automod-hover: rgba(var(--dangercolor),.1); /* default .1 */
-	--channeltextarea-background: rgba(var(--transparencycolor), .3); /* default .3 */
+	--channeltextarea-background: rgba(var(--transparencycolor), .1); /* default .3 */
 	--input-background: rgba(var(--transparencycolor), .1); /* default .1 */
-	--elevation-low: 0 1px 5px 0 rgba(var(--transparencycolor), .3); /* default .3 */
-	--elevation-high: 0 2px 10px 0 rgba(var(--transparencycolor), .3); /* default .3 */
+	--elevation-low: 0 1px 5px 0 rgba(var(--transparencycolor), .1); /* default .3 */
+	--elevation-high: 0 2px 10px 0 rgba(var(--transparencycolor), .1); /* default .3 */
 	--font-primary: var(--font) !important;
 	--font-display: var(--font) !important;
 }
