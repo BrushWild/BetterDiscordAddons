@@ -83,8 +83,8 @@
 	--background-accent: rgba(var(--transparencycolor), .1); /* default .1 */
 	--background-primary: rgba(var(--transparencycolor), .2); /* default .2 */
 	--background-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
-	--background-secondary-alt: rgba(var(--transparencycolor), .35); /* default .35 */
-	--background-tertiary: rgba(var(--transparencycolor), .4); /* default .4 */
+	--background-secondary-alt: rgba(var(--transparencycolor), .15); /* default .35 */
+	--background-tertiary: rgba(var(--transparencycolor), .2); /* default .4 */
 	--background-floating: rgba(var(--transparencycolor), .1); /* default .5 */
 	--background-mobile-primary: rgba(var(--transparencycolor), .2); /* default .2 */
 	--background-mobile-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
