@@ -1050,8 +1050,7 @@ body::after {
 .mouse-mode.full-motion .message-2CShn3:hover,
 .mouse-mode .wrapper-15CKyy:hover,
 .mouse-mode.full-motion .wrapper-15CKyy:hover {
-	/* background-color: rgba(var(--transparencycolor), calc(var(--messagetransparency) * 1.2 * var(--usechatbubbles) + 0.3 * (1 - var(--usechatbubbles)))) !important; */
-	background-color: rgba(var(--transparencycolor), 0.1) !important;
+	background-color: rgba(var(--transparencycolor), calc(var(--messagetransparency) * 0.5 * var(--usechatbubbles) + 0.3 * (1 - var(--usechatbubbles)))) !important;
 }
 .backgroundFlash-1X5jVs .message-2CShn3 {					/* message				jump flash							*/
 	position: relative;
