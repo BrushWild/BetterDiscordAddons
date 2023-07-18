@@ -26,7 +26,7 @@
 	--accentcolor:					0,165,0;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
-	--textshadow:					0,0,0;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
+	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
 	--background:					url(https://camo.githubusercontent.com/10a3f498d105f35e3547b033f0a7bcbc06fa8c837792b50954234b37e1a039bc/68747470733a2f2f6170692e616c6578666c69706e6f74652e6465762f636f6c6f722f696d6167652f333633393346); 
@@ -39,7 +39,7 @@
 	--popoutsize:					var(--backgroundsize);		/* default: cover				(sizefit of popout - values: [cover/contain/auto])								*/
 	--popoutblur:					var(--backgroundblur);		/* default: unset				(blur in px, only works when --popout is set to an image)						*/
 	
-	--backdrop:						rgba(0,0,0,0.15);			/* default: rgba(0,0,0,0.85)	(change to use another background/color for backdrops)							*/
+	--backdrop:						rgba(0,0,0,0.05);			/* default: rgba(0,0,0,0.85)	(change to use another background/color for backdrops)							*/
 	--backdropposition:				center;						/* default: center				(position of backdrop - values: [center/top/right/bottom/left])					*/
 	--backdropsize:					cover;						/* default: cover				(sizefit of backdrop - values: [cover/contain/auto])							*/
 	--backdropblur:					unset;						/* default: unset				(blur in px, only works when --backdrop is set to an image)						*/
@@ -49,7 +49,7 @@
 	--textbright: 					200,200,200;				/* default: 200,200,200			(text color for bright texts)													*/
 	--textdark: 					160,160,160;				/* default: 160,160,160			(text color for dark texts)														*/
 	--textdarker: 					125,125,125;				/* default: 125,125,125			(text color for darker texts)													*/
-	--textdarkest: 					90,90,90;					/* default: 90,90,90			(text color for the darkest texts)												*/
+	--textdarkest: 					115,115,115;					/* default: 90,90,90			(text color for the darkest texts)												*/
 	
 	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
 }
