@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
-	/* --background:					url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a976ac98-be58-418f-adce-74100c07155f/dewxmws-02d46d84-e354-4d55-9892-331043741952.jpg/v1/fill/w_1280,h_536,q_75,strp/destiny_2___garden_of_salvation_by_abdulllrahmanha_dewxmws-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM2IiwicGF0aCI6IlwvZlwvYTk3NmFjOTgtYmU1OC00MThmLWFkY2UtNzQxMDBjMDcxNTVmXC9kZXd4bXdzLTAyZDQ2ZDg0LWUzNTQtNGQ1NS05ODkyLTMzMTA0Mzc0MTk1Mi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4a_qrHBTOZbTYsHGmwAN4IcLmDXVmSM2cmL5bIGTg1k); */
+	--background:					url(https://camo.githubusercontent.com/10a3f498d105f35e3547b033f0a7bcbc06fa8c837792b50954234b37e1a039bc/68747470733a2f2f6170692e616c6578666c69706e6f74652e6465762f636f6c6f722f696d6167652f333633393346); 
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
