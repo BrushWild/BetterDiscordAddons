@@ -6695,7 +6695,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 #app-mount ::-webkit-scrollbar-thumb {
 	border-radius: 10px;
 	border: none;
-	background-color: rgb(var(--scrollbarcolor), var(--scrollbartransparency)) !important;
+	background-color: rgba(var(--scrollbarcolor), var(--scrollbartransparency)) !important;
 }
 .none-1rXy4P::-webkit-scrollbar-corner,
 .none-1rXy4P::-webkit-scrollbar-thumb,
