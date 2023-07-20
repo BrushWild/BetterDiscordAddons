@@ -1413,14 +1413,14 @@ body::after {
 	background-attachment: fixed;
 }
 .wrapper-2vIMkT::after {
-	background-color: rgba(var(--transparencycolor), calc(var(--transparencyalpha) + 0.25));
+	background-color: rgba(var(--transparencycolor), calc(var(--transparencyalpha) + 0.8));
 	backdrop-filter: blur(var(--backgroundblur));
 }
 .button-3bklZh:hover {										/* message				button								*/
-	background-color: rgba(var(--transparencycolor), .8);
+	background-color: rgba(var(--transparencycolor), .2);
 }
 .button-3bklZh.selected-69H4ua {
-	background-color: rgba(var(--transparencycolor), .8);
+	background-color: rgba(var(--transparencycolor), .4);
 }
 
 .bumpBox-1Pp4td {											/* messageelement		publish box							*/
