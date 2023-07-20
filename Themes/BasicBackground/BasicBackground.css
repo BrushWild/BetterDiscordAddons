@@ -622,7 +622,7 @@ body::after {
 }
 .modeSelected-3DmyhH .link-1_kTxV,
 .modeSelected-3DmyhH:hover .link-1_kTxV {
-	background-color: rgba(var(--accentselectedcolor), 0.5);
+	background-color: rgba(var(--accentselectedcolor), 0.25);
 	text-shadow: 1px 1px var(--textshadow);
 }
 .modeSelected-3DmyhH .link-1_kTxV [style*="color: var(--text-muted)"],
@@ -6081,7 +6081,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 .selected-1-Z6gm .layout-1qmrhw,
 .selected-1-Z6gm:hover .layout-1qmrhw,
 .selected-1-Z6gm:active .layout-1qmrhw {
-	background-color: rgba(var(--accentselectedcolor), 0.5);
+	background-color: rgba(var(--accentselectedcolor), 0.25);
 	text-shadow: 1px 1px var(--textshadow);
 }
 .clickable-28SzVr .icon-2iCk7Q {
