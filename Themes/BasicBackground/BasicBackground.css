@@ -1413,7 +1413,7 @@ body::after {
 	background-attachment: fixed;
 }
 .wrapper-2vIMkT::after {
-	background-color: rgba(var(--transparencycolor), calc(var(--transparencyalpha) + 0.8));
+	background-color: rgba(var(--transparencycolor), calc(var(--transparencyalpha) + 0.25));
 	backdrop-filter: blur(var(--backgroundblur));
 }
 .button-3bklZh:hover {										/* message				button								*/
@@ -4621,7 +4621,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 	stroke: var(--textshadow);
 }
 .button-1zW0-r {											/* contextmenu			quick reaction button				*/
-	background-color: rgba(var(--transparencycolor), .3);
+	background-color: rgba(var(--transparencycolor), .8);
 }
 .button-1zW0-r:hover {
 	background-color: rgb(var(--accentcolor));
