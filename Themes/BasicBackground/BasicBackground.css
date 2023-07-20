@@ -1417,7 +1417,7 @@ body::after {
 	backdrop-filter: blur(var(--backgroundblur));
 }
 .button-3bklZh:hover {										/* message				button								*/
-	background-color: rgba(var(--transparencycolor), .2);
+	background-color: rgba(var(--transparencycolor), .8);
 }
 .button-3bklZh.selected-69H4ua {
 	background-color: rgba(var(--transparencycolor), .8);
