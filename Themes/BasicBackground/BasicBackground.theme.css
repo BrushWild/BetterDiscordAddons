@@ -30,7 +30,7 @@
 	--accentcolor2:                                 0, 165, 100;
 	--mentioncolor:					100, 165, 0;
 	--scrollbarcolor:				0,125,0;
-	--accentselectedcolor:                          0,45,0;
+	--accentselectedcolor:                          0,125,0;
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
