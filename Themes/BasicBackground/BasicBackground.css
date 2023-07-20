@@ -87,8 +87,8 @@
 	--background-primary: rgba(var(--transparencycolor), .2); /* default .2 */
 	--background-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
 	--background-secondary-alt: rgba(var(--transparencycolor), .35); /* default .35 */
-	--background-tertiary: rgba(var(--transparencycolor), .4); /* default .4 */
-	--background-floating: rgba(var(--transparencycolor), .8); /* default .5 */
+	--background-tertiary: rgba(var(--transparencycolor), .2); /* default .4 */
+	--background-floating: rgba(var(--transparencycolor), .3); /* default .5 */
 	--background-mobile-primary: rgba(var(--transparencycolor), .2); /* default .2 */
 	--background-mobile-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
 	--background-modifier-accent: rgba(var(--textbrightest),.1); /* default .1 */
@@ -4281,7 +4281,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 	background-color: rgba(var(--transparencycolor), .2);
 }
 #app-mount .reactionDefault-1Sjj1f:hover {					/* modal				reaction							*/
-	background-color: rgba(var(--transparencycolor), .2);
+	background-color: rgba(var(--transparencycolor), .8);
 }
 #app-mount .reactionSelected-1aMb2K {
 	background-color: rgba(var(--transparencycolor), .4);
