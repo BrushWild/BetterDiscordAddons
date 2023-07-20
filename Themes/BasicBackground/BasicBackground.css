@@ -88,7 +88,7 @@
 	--background-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
 	--background-secondary-alt: rgba(var(--transparencycolor), .35); /* default .35 */
 	--background-tertiary: rgba(var(--transparencycolor), .4); /* default .4 */
-	--background-floating: rgba(var(--transparencycolor), .5); /* default .5 */
+	--background-floating: rgba(var(--transparencycolor), .8); /* default .5 */
 	--background-mobile-primary: rgba(var(--transparencycolor), .2); /* default .2 */
 	--background-mobile-secondary: rgba(var(--transparencycolor), .3); /* default .3 */
 	--background-modifier-accent: rgba(var(--textbrightest),.1); /* default .1 */
