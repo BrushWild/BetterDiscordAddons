@@ -1370,11 +1370,11 @@ body::after {
 }
 
 .reaction-2A2y9y {											/* message				reaction							*/
-	background-color: rgba(var(--transparencycolor), .3);
+	background-color: rgba(var(--transparencycolor), .8);
 	border: none;
 }
 .reaction-2A2y9y:hover {
-	background-color: rgba(var(--transparencycolor), .4);
+	background-color: rgba(var(--transparencycolor), .8);
 }
 .reaction-2A2y9y.reactionMe-3I9gFK {
 	background-color: rgba(var(--accentcolor), .8);
@@ -1387,7 +1387,7 @@ body::after {
 	text-shadow: 1px 1px var(--textshadow);
 }
 .reaction-2A2y9y:hover {
-	background-color: rgba(var(--transparencycolor), .4);
+	background-color: rgba(var(--transparencycolor), .8);
 }
 
 .wrapper-2vIMkT {											/* message				buttons								*/
