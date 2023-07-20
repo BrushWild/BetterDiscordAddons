@@ -6072,7 +6072,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 }
 
 .clickable-28SzVr:hover .layout-1qmrhw {
-	background-color: rgba(var(--transparencycolor), .2);
+	background-color: rgba(var(--transparencycolor), .7);
 }
 .clickable-28SzVr:active .layout-1qmrhw {
 	background: rgb(var(--accentcolor));
@@ -6081,7 +6081,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 .selected-1-Z6gm .layout-1qmrhw,
 .selected-1-Z6gm:hover .layout-1qmrhw,
 .selected-1-Z6gm:active .layout-1qmrhw {
-	background-color: rgba(var(--accentselectedcolor), 0.25);
+	background-color: rgba(var(--accentselectedcolor), 0.8);
 	text-shadow: 1px 1px var(--textshadow);
 }
 .clickable-28SzVr .icon-2iCk7Q {
